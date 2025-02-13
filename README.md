@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 
 ### **Step 1: Step-Up API Credentials**  
 1. Login to Gemini
-2. Create API Keys
+2. Create API Key
 3. Copy the key to Notepad for further use
 
 ### **Step 1: Clone the Repository**  
@@ -33,27 +33,21 @@ git clone https://github.com/yourusername/security-policy-recommender.git
 cd security-policy-recommender
 
 ### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/security-policy-recommender.git
-cd security-policy-recommender
+
 
 ### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/security-policy-recommender.git
-cd security-policy-recommender
+
 
 ### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/security-policy-recommender.git
-cd security-policy-recommender
+
 
 ### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/security-policy-recommender.git
-cd security-policy-recommender
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/c6255c14-63bd-4f6c-bb88-79823433d7fb)
+
+Ouput:
+![image](https://github.com/user-attachments/assets/6a97a980-e716-4361-8a5d-afee0243bbf0)
+

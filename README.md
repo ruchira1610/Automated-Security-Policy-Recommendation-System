@@ -19,12 +19,13 @@ The **Automated Security Policy Recommendation System** is a cybersecurity tool 
 Ensure you have the following installed on your system:  
 - **Python 3.x**  
 - **pip (Python Package Manager)**
-- **Libraries - pandas, regex, openai
+- **Libraries - pandas, regex, openai**
+- **Sample Network/Firewall rules text file**
 
 ### **Step 1: Step-Up API Credentials**  
-```bash
-git clone https://github.com/yourusername/security-policy-recommender.git
-cd security-policy-recommender
+1.Login to Gemini
+2.Create API Keys
+3.Copy the key to Notepad for further use
 
 ### **Step 1: Clone the Repository**  
 ```bash

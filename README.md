@@ -23,9 +23,9 @@ Ensure you have the following installed on your system:
 - **Sample Network/Firewall rules text file**
 
 ### **Step 1: Step-Up API Credentials**  
-1.Login to Gemini
-2.Create API Keys
-3.Copy the key to Notepad for further use
+1. Login to Gemini
+2. Create API Keys
+3. Copy the key to Notepad for further use
 
 ### **Step 1: Clone the Repository**  
 ```bash

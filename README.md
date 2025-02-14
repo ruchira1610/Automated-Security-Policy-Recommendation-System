@@ -9,7 +9,7 @@ The **Automated Security Policy Recommendation System** is a cybersecurity tool 
 
 ✅ **Firewall Rule Analysis** – Reads and evaluates network firewall configurations.  
 ✅ **Risk Detection** – Identifies unsafe rules based on cybersecurity best practices.  
-✅ **Automated Recommendations** – Leverages AI to suggest security enhancements.  
+✅ **Automated Recommendations** – Leverages Gen-AI to suggest security enhancements.  
 
 ---
 

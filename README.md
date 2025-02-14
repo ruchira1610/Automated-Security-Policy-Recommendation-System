@@ -20,33 +20,18 @@ Ensure you have the following installed on your system:
 - **Python 3.x**  
 - **pip (Python Package Manager)**
 - **Libraries - pandas, regex, openai**
-- **Sample Network/Firewall rules text file**
+- **Sample Network/Firewall rules text file (network_logs.txt - available here)**
 
 ### **Step 1: Step-Up API Credentials**  
 1. Login to Gemini
 2. Create API Key
 3. Copy the key to Notepad for further use
 
-### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/security-policy-recommender.git
-cd security-policy-recommender
-
-### **Step 1: Clone the Repository**  
-
-
-### **Step 1: Clone the Repository**  
-
-
-### **Step 1: Clone the Repository**  
-
-
-### **Step 1: Clone the Repository**  
-
-
-
-
-
+### **Step 2: Open any Python IDE and run the code**  
+1. Paste the code as given in the securityRecommender.py file
+2. Copy and Paste the path of the newtork_log.txt file in for attribute "YOUR_NETWORK_FILE_PATH"
+3. Copy and Paste the API Key for "YOUR_API_KEY"
+4. Run the code 
 
 Ouput:
 ![image](https://github.com/user-attachments/assets/6a97a980-e716-4361-8a5d-afee0243bbf0)

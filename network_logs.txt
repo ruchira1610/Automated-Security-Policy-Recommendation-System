@@ -1,0 +1,8 @@
+Allow TCP from 192.168.1.0/24 to port 80
+Deny all traffic from 10.0.0.0/8
+Allow UDP from 192.168.1.0/24 to port 53
+Allow all from 192.168.2.0/24 to port 80
+Deny UDP traffic from 192.168.3.0/24 to port 53
+Allow TCP from 192.168.5.0/24 to port 80
+Allow all from 192.168.17.0/24 to port 445
+Allow Telnet access from anywhere

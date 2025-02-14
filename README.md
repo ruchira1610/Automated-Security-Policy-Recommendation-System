@@ -33,6 +33,10 @@ Ensure you have the following installed on your system:
 3. Copy and Paste the API Key for "YOUR_API_KEY"
 4. Run the code 
 
-Ouput:
+### **Ouput**
+1. The program listed all the Network Rules found in the network_log.txt
+2. The program then listed Unsafe Network Rules it found in the network_log.txt
+3. With the help of Gemini, it recommended the changes that needs to be done for each unsafe rule in a tabular format
+
 ![image](https://github.com/user-attachments/assets/6a97a980-e716-4361-8a5d-afee0243bbf0)
 
